@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FeatureC/FeatureC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FeatureB/FeatureB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FeatureA/FeatureA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AppsModular.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
